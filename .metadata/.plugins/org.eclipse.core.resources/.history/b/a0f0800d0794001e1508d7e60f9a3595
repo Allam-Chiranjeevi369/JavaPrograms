@@ -1,0 +1,12 @@
+package com.JPAProject.entities;
+
+import jakarta.persistence.Entity;
+import jakarta.persistence.Table;
+
+@Entity
+@Table(name = "employee")
+public class emoloyee {
+	
+	
+
+}

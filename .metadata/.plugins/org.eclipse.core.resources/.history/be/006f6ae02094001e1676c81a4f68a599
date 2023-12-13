@@ -1,0 +1,17 @@
+package com.JPAProject.service;
+
+import org.springframework.stereotype.Service;
+
+import com.JPAProject.entities.Employee;
+
+
+@Service
+public class EmployService {
+	
+	String add(Employee employee) {
+		
+		return "New employee added";
+		
+	}
+	
+}

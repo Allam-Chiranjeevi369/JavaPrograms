@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;gitBash&apos; to &apos;GitHub&apos;" description="Rename resource &apos;gitBash&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/gitBash" name="GitHub" stamp="1697695839961" updateReferences="true"/>
+</session>

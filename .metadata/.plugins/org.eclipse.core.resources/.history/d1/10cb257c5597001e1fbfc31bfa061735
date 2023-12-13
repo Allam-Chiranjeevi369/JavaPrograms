@@ -1,0 +1,13 @@
+package com.colourPrinter.normalProject;
+
+import com.colourPrinter.normalProject.RedPrinter;
+
+public class EnglishRedPrinter implements RedPrinter{
+
+	@Override
+	public String print() {
+		// TODO Auto-generated method stub
+		return "Red";
+	}
+
+}

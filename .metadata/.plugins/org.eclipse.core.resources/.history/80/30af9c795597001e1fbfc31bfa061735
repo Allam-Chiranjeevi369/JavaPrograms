@@ -1,0 +1,11 @@
+package com.colourPrinter.normalProject;
+
+public class EnglishGreenPrinter implements GreenPrinter{
+
+	@Override
+	public String print() {
+		// TODO Auto-generated method stub
+		return "Green";
+	}
+
+}

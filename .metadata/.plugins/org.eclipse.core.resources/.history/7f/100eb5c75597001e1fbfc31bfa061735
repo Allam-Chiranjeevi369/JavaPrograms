@@ -1,0 +1,7 @@
+package com.colourPrinter.normalProject;
+
+public interface BluePrinter {
+
+	public String print();
+	
+}

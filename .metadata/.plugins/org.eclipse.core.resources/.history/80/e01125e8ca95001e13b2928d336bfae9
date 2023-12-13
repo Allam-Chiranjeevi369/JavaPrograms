@@ -1,0 +1,5 @@
+package com.springBootPro.quickstart;
+
+public class HelloWorldController {
+
+}

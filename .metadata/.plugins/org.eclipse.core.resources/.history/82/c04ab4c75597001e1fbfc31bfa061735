@@ -1,0 +1,13 @@
+package com.colourPrinter.normalProject.EnglishPrinters;
+
+import com.colourPrinter.normalProject.BluePrinter;
+
+public class EnglishBluePrinter implements BluePrinter{
+
+	@Override
+	public String print() {
+		// TODO Auto-generated method stub
+		return "Blue";
+	}
+
+}
