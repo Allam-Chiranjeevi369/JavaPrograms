@@ -18,9 +18,9 @@ public class JpaProjectApplication {
 	CommandLineRunner testBackend(EmployService empService) {
 		
 		Employee newEmp = new Employee();
-		newEmp.setEmpName("Chinna moyemoye");
-		newEmp.setEmpAdd("AP");
-		newEmp.setEmpNo(122);
+		newEmp.setEmpName("chiranjeevi");
+		newEmp.setEmpAdd("TS");
+		newEmp.setEmpNo(0);
 		newEmp.setSalary("50,00,000");
 		newEmp.setEmpPhone("1234567890");
 		

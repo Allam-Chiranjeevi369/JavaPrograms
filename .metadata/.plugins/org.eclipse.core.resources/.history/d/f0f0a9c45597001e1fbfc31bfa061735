@@ -1,7 +1,0 @@
-package com.colourPrinter.normalProject;
-
-public interface GreenPrinter {
-	
-	public String print();
-	
-}

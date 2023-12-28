@@ -1,7 +1,0 @@
-package com.colourPrinter.normalProject;
-
-public interface RedPrinter {
-	
-	public String print();
-	
-}

@@ -1,6 +1,0 @@
-package com.colourPrinter.normalProject;
-
-public interface ColourPrinter {
-	
-	public String print();
-}
